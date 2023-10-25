@@ -1,5 +1,7 @@
 # project1-2
 command: 
+
+
 git clone https://github.com/puHoraira/project1-2.git
 
 sudo apt-get install libsdl2*
